@@ -1,0 +1,29 @@
+{
+  "name": "circularsort",
+  "version": "1.0.0",
+  "description": "Data Structure Exercise-2",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.12.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeacademyassignments/circularSort.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeacademyassignments/circularSort/issues"
+  },
+  "homepage": "https://github.com/codeacademyassignments/circularSort#readme"
+}
